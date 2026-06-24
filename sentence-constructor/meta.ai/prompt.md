@@ -123,7 +123,7 @@ Your turn — what English sentence do you want to translate first?
 
   
 Sentence structure:
-, [Verb-past]?[Location][Subject][Verb][Object]
+[Subject-Plural]? [Verb-Past],[Location][Verb][Object]
 
 Considerations:
 
